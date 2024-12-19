@@ -1,0 +1,2 @@
+This bug occurs when using the Expo CLI to build an Android APK.  The build process fails with an error similar to `Execution failed for task ':app:processDebugResources'. > AAPT2 aapt2-4.1.0-6882226
+Android resource linking failed
